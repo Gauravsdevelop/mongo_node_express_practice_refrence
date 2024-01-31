@@ -26,7 +26,7 @@ fs.mkdirSync('c:\\nodejs\\ch8\\geek');
 // console.log(data);
 
 // Append Data into File
-// fs.appendFileSync('readme.txt', 'GeekyShows');
+// fs.appendFileSync('readme.txt', 'Gaurav');
 
 // Copy File
 // fs.copyFileSync('readme.txt', 'info.txt');
@@ -36,3 +36,6 @@ fs.mkdirSync('c:\\nodejs\\ch8\\geek');
 // console.log(stats.isDirectory());
 // console.log(stats.isFile());
 // console.log(stats);
+
+
+//  refrence :- gaurav=geekyShow

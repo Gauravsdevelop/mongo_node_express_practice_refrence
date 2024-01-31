@@ -1,8 +1,8 @@
 class StudentController {
   static set_cookie = (req, res) =>{
-    res.cookie("username", "geekyshows")
+    res.cookie("username", "Gaurav")
     res.cookie("cart", 5)
-    // res.cookie("username", "geekyshows", {maxAge: 30000})
+    // res.cookie("username", "Gaurav", {maxAge: 30000})
     res.send("Cookie Set...")
   }
 
